@@ -1,7 +1,13 @@
 ## Hi there 👋, I am George (or Georgios)
 
+I am a husband, father, software developer, coach, mentor, podcaster and drummer...
+
+### 🤝🏻 &nbsp;Connect with Me
 [![](https://img.shields.io/badge/-@geochatz-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/geochatz)
-[![](https://img.shields.io/badge/-@geochatz-%23181717?style=flat-square&logo=github)](https://github.com/geochatz)
+[![](https://img.shields.io/badge/-@georgechatzimanolis-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/georgechatzimanolis)
+[![](https://img.shields.io/badge/-@george.chatzimanolis-1877F2?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/george.chatzimanolis)
+[![](https://img.shields.io/badge/-@geochatz-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/geochatz)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chatzimanolis.com&url=https%3A%2F%2Fchatzimanolis.com)](https://chatzimanolis.com)
 
 <!--
 **geochatz/geochatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
