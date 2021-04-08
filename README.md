@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋, I am George (or Georgios)
+
+[![](https://img.shields.io/badge/-@geochatz-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/geochatz)
+[![](https://img.shields.io/badge/-@geochatz-%23181717?style=flat-square&logo=github)](https://github.com/geochatz)
 
 <!--
 **geochatz/geochatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
