@@ -1,6 +1,6 @@
 ## Hi there 👋, I am George (or Georgios)
 
-I am a husband, father, software developer, coach, mentor, podcaster and drummer...
+Leading a team of 30+ developers 👨‍💻 | Agile Advocate 🚀 | Mentor | Coach | Family Man | Podcaster | Drummer 🥁
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![](https://img.shields.io/badge/-@geochatz-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/geochatz)
